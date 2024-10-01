@@ -11,6 +11,3 @@ Oh, it's also printer-friendly. You can print out the codes for paper backup.
 ## Browser Compatibility
 Chrome, Edge, Firefox, Opera, Android, ETC.
 Decryption is not support with Safari and Mobile Safari.
-
-## License
-MIT License
