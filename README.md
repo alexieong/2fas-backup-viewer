@@ -10,4 +10,6 @@ Oh, it's also printer-friendly. You can print out the codes for paper backup.
 
 ## Browser Compatibility
 Chrome, Edge, Firefox, Opera, Android, ETC.
-Decryption is not support with Safari and Mobile Safari.
+
+## Live Preview
+It's highly recommended to download and run locally, but it's up to you to [preview it online](https://alexieong.github.io/2fas-backup-viewer/2fas-backup-viewer.html) on [GitHub Pages](https://alexieong.github.io/2fas-backup-viewer/)
